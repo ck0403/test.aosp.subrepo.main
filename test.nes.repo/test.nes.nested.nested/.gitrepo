@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/ck0403/test.nes.nested.nested
+	branch = main
+	commit = 56d8c94f20dc6adedb02244d9edb3ed3e0da1fbf
+	parent = c21e82f4ef944c770ab50324940365ee19b3e310
+	method = merge
+	cmdver = 0.4.9
